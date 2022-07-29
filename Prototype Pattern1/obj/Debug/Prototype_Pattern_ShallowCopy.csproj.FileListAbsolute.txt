@@ -1,0 +1,6 @@
+E:\GitHubPro\CshapSdy\Prototype Pattern1\bin\Debug\Prototype Pattern1.exe.config
+E:\GitHubPro\CshapSdy\Prototype Pattern1\bin\Debug\Prototype Pattern1.exe
+E:\GitHubPro\CshapSdy\Prototype Pattern1\bin\Debug\Prototype Pattern1.pdb
+E:\GitHubPro\CshapSdy\Prototype Pattern1\obj\Debug\Prototype_Pattern_ShallowCopy.csproj.CoreCompileInputs.cache
+E:\GitHubPro\CshapSdy\Prototype Pattern1\obj\Debug\Prototype Pattern1.exe
+E:\GitHubPro\CshapSdy\Prototype Pattern1\obj\Debug\Prototype Pattern1.pdb

@@ -1,0 +1,6 @@
+E:\GitHubPro\CshapSdy\Factory Method Pattern\bin\Debug\Factory Method Pattern.exe.config
+E:\GitHubPro\CshapSdy\Factory Method Pattern\bin\Debug\Factory Method Pattern.exe
+E:\GitHubPro\CshapSdy\Factory Method Pattern\bin\Debug\Factory Method Pattern.pdb
+E:\GitHubPro\CshapSdy\Factory Method Pattern\obj\Debug\Factory Method Pattern.csproj.CoreCompileInputs.cache
+E:\GitHubPro\CshapSdy\Factory Method Pattern\obj\Debug\Factory Method Pattern.exe
+E:\GitHubPro\CshapSdy\Factory Method Pattern\obj\Debug\Factory Method Pattern.pdb

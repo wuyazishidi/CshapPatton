@@ -1,0 +1,7 @@
+E:\GitHubPro\CshapSdy\Singleton\bin\Debug\Singleton.exe.config
+E:\GitHubPro\CshapSdy\Singleton\bin\Debug\Singleton.exe
+E:\GitHubPro\CshapSdy\Singleton\bin\Debug\Singleton.pdb
+E:\GitHubPro\CshapSdy\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+E:\GitHubPro\CshapSdy\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+E:\GitHubPro\CshapSdy\Singleton\obj\Debug\Singleton.exe
+E:\GitHubPro\CshapSdy\Singleton\obj\Debug\Singleton.pdb

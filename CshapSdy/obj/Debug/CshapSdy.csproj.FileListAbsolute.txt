@@ -1,0 +1,7 @@
+E:\GitHubPro\CshapSdy\CshapSdy\bin\Debug\CshapSdy.exe.config
+E:\GitHubPro\CshapSdy\CshapSdy\bin\Debug\CshapSdy.exe
+E:\GitHubPro\CshapSdy\CshapSdy\bin\Debug\CshapSdy.pdb
+E:\GitHubPro\CshapSdy\CshapSdy\obj\Debug\CshapSdy.csproj.AssemblyReference.cache
+E:\GitHubPro\CshapSdy\CshapSdy\obj\Debug\CshapSdy.csproj.CoreCompileInputs.cache
+E:\GitHubPro\CshapSdy\CshapSdy\obj\Debug\CshapSdy.exe
+E:\GitHubPro\CshapSdy\CshapSdy\obj\Debug\CshapSdy.pdb

@@ -1,0 +1,6 @@
+E:\GitHubPro\CshapSdy\Prototype_Pattern_DeepCopy\bin\Debug\Prototype_Pattern_DeepCopy.exe.config
+E:\GitHubPro\CshapSdy\Prototype_Pattern_DeepCopy\bin\Debug\Prototype_Pattern_DeepCopy.exe
+E:\GitHubPro\CshapSdy\Prototype_Pattern_DeepCopy\bin\Debug\Prototype_Pattern_DeepCopy.pdb
+E:\GitHubPro\CshapSdy\Prototype_Pattern_DeepCopy\obj\Debug\Prototype_Pattern_DeepCopy.csproj.CoreCompileInputs.cache
+E:\GitHubPro\CshapSdy\Prototype_Pattern_DeepCopy\obj\Debug\Prototype_Pattern_DeepCopy.exe
+E:\GitHubPro\CshapSdy\Prototype_Pattern_DeepCopy\obj\Debug\Prototype_Pattern_DeepCopy.pdb

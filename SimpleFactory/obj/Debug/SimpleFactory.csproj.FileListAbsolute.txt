@@ -1,0 +1,7 @@
+E:\GitHubPro\CshapSdy\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+E:\GitHubPro\CshapSdy\SimpleFactory\bin\Debug\SimpleFactory.exe
+E:\GitHubPro\CshapSdy\SimpleFactory\bin\Debug\SimpleFactory.pdb
+E:\GitHubPro\CshapSdy\SimpleFactory\obj\Debug\SimpleFactory.csproj.AssemblyReference.cache
+E:\GitHubPro\CshapSdy\SimpleFactory\obj\Debug\SimpleFactory.csproj.CoreCompileInputs.cache
+E:\GitHubPro\CshapSdy\SimpleFactory\obj\Debug\SimpleFactory.exe
+E:\GitHubPro\CshapSdy\SimpleFactory\obj\Debug\SimpleFactory.pdb
