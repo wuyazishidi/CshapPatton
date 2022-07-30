@@ -1,7 +1,0 @@
-E:\GitHubPro\CshapSdy\Prototype Pattern\bin\Debug\Prototype Pattern.exe.config
-E:\GitHubPro\CshapSdy\Prototype Pattern\bin\Debug\Prototype Pattern.exe
-E:\GitHubPro\CshapSdy\Prototype Pattern\bin\Debug\Prototype Pattern.pdb
-E:\GitHubPro\CshapSdy\Prototype Pattern\obj\Debug\Prototype Pattern.csproj.AssemblyReference.cache
-E:\GitHubPro\CshapSdy\Prototype Pattern\obj\Debug\Prototype Pattern.csproj.CoreCompileInputs.cache
-E:\GitHubPro\CshapSdy\Prototype Pattern\obj\Debug\Prototype Pattern.exe
-E:\GitHubPro\CshapSdy\Prototype Pattern\obj\Debug\Prototype Pattern.pdb

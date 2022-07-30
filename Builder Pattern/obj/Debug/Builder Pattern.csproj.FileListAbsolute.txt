@@ -1,7 +1,0 @@
-E:\GitHubPro\CshapSdy\Builder Pattern\bin\Debug\Builder Pattern.exe.config
-E:\GitHubPro\CshapSdy\Builder Pattern\bin\Debug\Builder Pattern.exe
-E:\GitHubPro\CshapSdy\Builder Pattern\bin\Debug\Builder Pattern.pdb
-E:\GitHubPro\CshapSdy\Builder Pattern\obj\Debug\Builder Pattern.csproj.AssemblyReference.cache
-E:\GitHubPro\CshapSdy\Builder Pattern\obj\Debug\Builder Pattern.csproj.CoreCompileInputs.cache
-E:\GitHubPro\CshapSdy\Builder Pattern\obj\Debug\Builder Pattern.exe
-E:\GitHubPro\CshapSdy\Builder Pattern\obj\Debug\Builder Pattern.pdb

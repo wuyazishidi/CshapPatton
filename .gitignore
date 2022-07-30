@@ -45,3 +45,11 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+/Abstract Factory/obj/Debug
+/Builder Pattern/obj/Debug
+/Factory Method Pattern/obj/Debug
+/Prototype Pattern/obj/Debug
+/Prototype Pattern1/obj/Debug
+/Prototype_Pattern_DeepCopy/obj/Debug
+/SimpleFactory/obj/Debug
+/Singleton/obj/Debug
