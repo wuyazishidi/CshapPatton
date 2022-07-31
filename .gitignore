@@ -4,7 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-/obj
+obj/ 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
 
@@ -55,3 +55,5 @@ crashlytics-build.properties
 /Prototype_Pattern_DeepCopy/obj/Debug
 /SimpleFactory/obj/Debug
 /Singleton/obj/Debug
+/AdapterPatton/obj
+/CshapSdy/obj
